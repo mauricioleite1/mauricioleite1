@@ -4,11 +4,14 @@
 ###### 💬 I worked as an Architect/Designer for about 10 years, just when the possibility of dreaming with a new path for my carrer showed up<br>I'm based in Salvador/BA/Brazil
 
 ###### I'm currently studying at Trybe, to become a Full Stack Web Dev 🖥️
+###### <em>(PS: I love UX/UI design as well)</em>
 
-[![GitHub Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)](https://github.com/mauricioleite1)
+[![GitHub Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mauricioleite1)
+[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mauricioleite/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mauricioleite@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricioleite/)
 <hr>
+
+##### Skills
 
 [![HTML Badge](https://img.shields.io/badge/HTML-5432ff?style=for-the-badge&logo=html5&logoColor=white)](https://www.google.com/search?&q=html5)<br> [![CSS Badge](https://img.shields.io/badge/CSS-5432ff?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/search?&q=css) [![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)<br> [![Javascript Badge](https://img.shields.io/badge/JavaScript-5432ff?style=for-the-badge&logo=javascript&logoColor=white)](https://www.google.com/search?&q=javascript)
 
