@@ -1,9 +1,7 @@
 ## Hey, I'm Maurício Leite! 😄
 
 
-###### 💬 I worked as an Architect/Designer for about 10 years, then the possibility of dreaming with a new path for my carrer showed up<br> 🏡 I'm based in Salvador/BA/Brazil
-
-###### I'm currently studying at Trybe, to become a Full Stack Web Dev 🖥️
+###### 💬 I worked as an Architect/Designer for about 10 years, then the possibility of dreaming with a new path for my carrer showed up<br>🖥️ I'm currently studying at Trybe, to become a Full Stack Web Dev<br><br> 🏡 I'm based in Salvador/BA/Brazil
 
 ###### <em>(PS: I love UX/UI design as well)</em>
 
