@@ -14,7 +14,7 @@
 
 ###### I'm building more and more skills. 📚<br><br>
 <details>
-  <summary>Other softwares that I work with:</summary>
+  <summary>Other softwares I work with:</summary>
   <ul>
     <li><b>Autodesk</b>: AutoCAD, 3ds Max, Revit</li>
     <li><b>Adobe</b>: Photoshop, InDesign, Illustrator</li>
