@@ -1,7 +1,7 @@
 ## Hey, I'm Maurício Leite! 😄
 
 
-###### 💬 I worked as an Architect/Designer for about 10 years, then the possibility of dreaming with a new path for my carrer showed up<br>🖥️ I'm currently studying at Trybe, to become a Full Stack Web Dev<br><br> 🏡 I'm based in Salvador/BA/Brazil
+###### 💬 I worked as an Architect/Designer for about 10 years, then the possibility of dreaming with a new path for my career showed up<br>🖥️ I'm currently studying at Trybe, to become a Full Stack Web Dev<br><br> 🏡 I'm based in Salvador/BA/Brazil
 
 ###### <em>(PS: I love UX/UI design as well)</em>
 
@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mauricioleite@gmail.com)
 <hr>
 
-[![Lang](https://img.shields.io/badge/LANG._&_FW-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) [![Javascript Badge](https://img.shields.io/badge/JavaScript-5432ff?style=for-the-badge&logo=javascript&logoColor=white)](https://www.google.com/search?&q=javascript)<br>[![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet) [![CSS Badge](https://img.shields.io/badge/CSS-5432ff?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/search?&q=css) [![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)<br>[![UX UI](https://img.shields.io/badge/UX_UI-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=uxui) [![Figma Badge](https://img.shields.io/badge/Figma-5432ff?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)  [![AdobeXD Badge](https://img.shields.io/badge/Adobe_XD-5432ff?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
+[![Lang](https://img.shields.io/badge/LANG._&_FW-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) [![Javascript Badge](https://img.shields.io/badge/react-5432ff?style=for-the-badge&logo=react&logoColor=white)](https://www.google.com/search?&q=react)<br>[![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet) [![CSS Badge](https://img.shields.io/badge/CSS-5432ff?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/search?&q=css) [![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)<br>[![UX UI](https://img.shields.io/badge/UX_UI-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=uxui) [![Figma Badge](https://img.shields.io/badge/Figma-5432ff?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)  [![AdobeXD Badge](https://img.shields.io/badge/Adobe_XD-5432ff?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
 
 ###### I'm building more and more skills. 📚<br><br>
 <details>
