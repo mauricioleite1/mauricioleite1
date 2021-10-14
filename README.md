@@ -10,11 +10,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mauricioleite@gmail.com)
 <hr>
 
-[![Lang](https://img.shields.io/badge/LANG._&_FW-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) 
-
+[![Lang](https://img.shields.io/badge/Tools-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) 
 [![React Badge](https://img.shields.io/badge/react-5432ff?style=for-the-badge&logo=react&logoColor=white)](https://pt-br.reactjs.org)<br>
-
-[![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet) [![CSS Badge](https://img.shields.io/badge/CSS-5432ff?style=for-the-badge&logo=css3&logoColor=white)](https://www.google.com/search?&q=css) [![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)<br>[![UX UI](https://img.shields.io/badge/UX_UI-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=uxui) [![Figma Badge](https://img.shields.io/badge/Figma-5432ff?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)  [![AdobeXD Badge](https://img.shields.io/badge/Adobe_XD-5432ff?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
+[![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet) [![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)<br>[![UX UI](https://img.shields.io/badge/UX_UI-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=uxui) [![Figma Badge](https://img.shields.io/badge/Figma-5432ff?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)  [![AdobeXD Badge](https://img.shields.io/badge/Adobe_XD-5432ff?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
 
 ###### I'm building more and more skills. 📚<br><br>
 <details>
