@@ -12,7 +12,7 @@
 
 [![Lang](https://img.shields.io/badge/Tools-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) 
 [![React Badge](https://img.shields.io/badge/react-5432ff?style=for-the-badge&logo=react&logoColor=white)](https://pt-br.reactjs.org)
-[![Next Badge](https://img.shields.io/badge/nextjs-5432ff?style=for-the-badge&logo=next&logoColor=white)](https://nextjs.org)<br>
+[![Next Badge](https://img.shields.io/badge/nextjs-5432ff?style=for-the-badge&logo=nextjs&logoColor=white)](https://nextjs.org)<br>
 
 [![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet) [![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)<br>[![UX UI](https://img.shields.io/badge/UX_UI-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=uxui) [![Figma Badge](https://img.shields.io/badge/Figma-5432ff?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)  [![AdobeXD Badge](https://img.shields.io/badge/Adobe_XD-5432ff?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
 
