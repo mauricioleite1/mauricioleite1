@@ -3,8 +3,6 @@
 
 ###### 💬 I worked as an Architect/Designer for about 10 years, then the possibility of dreaming with a new path for my career showed up<br>🖥️ I'm currently studying at Trybe, to become a Full Stack Web Dev<br><br> 🏡 I'm based in Salvador/BA/Brazil
 
-###### <em>(PS: I love UX/UI design as well)</em>
-
 [![GitHub Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mauricioleite1)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mauricioleite/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mauricioleite@gmail.com)
