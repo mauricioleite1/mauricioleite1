@@ -8,17 +8,19 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mauricioleite@gmail.com)
 <hr>
 
-[![Lang](https://img.shields.io/badge/Tools-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) 
-[![React Badge](https://img.shields.io/badge/react-5432ff?style=for-the-badge&logo=react&logoColor=white)](https://pt-br.reactjs.org)
-[![Redux](https://img.shields.io/badge/redux-5432ff?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-[![Next Badge](https://img.shields.io/badge/nextjs-5432ff?style=for-the-badge&logo=nextjs&logoColor=white)](https://nextjs.org)<br>
+[![Lang](https://img.shields.io/badge/Tools-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) <br>
+[![Vue Badge](https://img.shields.io/badge/-Vue3-3b8070?style=for-the-badge&logo=Vue.js&logoColor=4fc08d)](https://vuejs.org)
+[![Nuxt Badge](https://img.shields.io/badge/nuxtjs-35495e?style=for-the-badge&logo=Nuxt.js&logoColor=41b883)](https://nextjs.org)
+[![Vuex Badge](https://img.shields.io/badge/-Vuex-3eaf7c?style=for-the-badge&logo=Vuex&logoColor=3eaf7c)](https://vuejs.org)
+<br>
+[![React Badge](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dbfb)](https://pt-br.reactjs.org)
+[![Next Badge](https://img.shields.io/badge/nextjs-white?style=for-the-badge&logo=Next.js&logoColor=black)](https://nextjs.org)
+[![Redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 
-[![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet)
+[![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet)<br>
 [![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 [![Styled](https://img.shields.io/badge/StyledComponents-5432ff?style=for-the-badge&logo=styled-components&logoColor=white)](https://www.styled-components.com
 )<br>
-
-[![UX UI](https://img.shields.io/badge/UX_UI-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=uxui) [![Figma Badge](https://img.shields.io/badge/Figma-5432ff?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)  [![AdobeXD Badge](https://img.shields.io/badge/Adobe_XD-5432ff?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/br/products/xd.html)
 
 ###### I'm building more and more skills. 📚<br><br>
 <details>
