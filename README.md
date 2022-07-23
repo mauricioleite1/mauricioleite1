@@ -1,39 +1,32 @@
-## Hey, I'm Maurício Leite! 😄
+## Olá! Bem-vindo à minha página! 🙂
 
+Sou Maurício Leite, desenvolvedor Jr, natural de **Salvador/BA/Brasil**<br><br>
 
-###### 💬 I worked as an Architect/Designer for about 10 years, then the possibility of dreaming with a new path for my career showed up<br>🖥️ I'm currently studying at Trybe and I work as a Junior Frontend Developer at Beedoo Edtech<br><br> 🏡 I'm based in Salvador/BA/Brazil
+💼 Desenvolvedor Frontend Jr, no [Beedoo Edtech](https://beedoo.com.br)<br>
+🎓 Recém-formado pela [Trybe](https://www.betrybe.com)<br><br>
 
-[![GitHub Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mauricioleite1)
-[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mauricioleite/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mauricioleite@gmail.com)
-<hr>
+Trabalhei por 10 anos como Arquiteto e Urbanista,<br>
+Consegui a oportunidade e migrei para área que realmente sou apaixonado 🤩
 
-[![Lang](https://img.shields.io/badge/Tools-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=programming_languages) <br>
-[![Vue Badge](https://img.shields.io/badge/-Vue3-3b8070?style=for-the-badge&logo=Vue.js&logoColor=4fc08d)](https://vuejs.org)
-[![Nuxt Badge](https://img.shields.io/badge/nuxtjs-35495e?style=for-the-badge&logo=Nuxt.js&logoColor=41b883)](https://nextjs.org)
-[![Vuex Badge](https://img.shields.io/badge/-Vuex-3eaf7c?style=for-the-badge&logo=Vuex&logoColor=3eaf7c)](https://vuejs.org)
-[![Pinia Badge](https://img.shields.io/badge/pinia-ffd859?style=for-the-badge&logo=Vuex&logoColor=3eaf7c)](https://pinia.vuejs.org)
-<br>
-[![React Badge](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dbfb)](https://pt-br.reactjs.org)
-[![Next Badge](https://img.shields.io/badge/nextjs-white?style=for-the-badge&logo=Next.js&logoColor=black)](https://nextjs.org)
+___
+### Ferramentas que mais uso<br>
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org)
+[![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=grey)](https://pt-br.reactjs.org)
+[![Nuxt Badge](https://img.shields.io/badge/nuxtjs-002028?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82)](https://v3.nuxtjs.org)
+[![Next Badge](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org)
+[![Pinia](https://img.shields.io/badge/pinia-ffd859?style=for-the-badge&logo=pinia&logoColor=161f32)](https://pinia.vuejs.org)
 [![Redux](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
+[![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF)](https://sass-lang.com)
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF)](https://docker.com)
+<br>
 
-[![Style](https://img.shields.io/badge/Style-gray?style=for-the-badge&logoColor=white)](https://www.google.com/search?&q=stylesheet)<br>
-[![SASS Badge](https://img.shields.io/badge/SASS-5432ff?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
-[![Styled](https://img.shields.io/badge/StyledComponents-5432ff?style=for-the-badge&logo=styled-components&logoColor=white)](https://www.styled-components.com
-)<br>
+#### Atualmente estou me aprimorando em
+[![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFF)](https://kotlin.com)
+[![Android](https://img.shields.io/badge/android-4FC08D?style=for-the-badge&logo=android&logoColor=FFF)](https://android.com)
 
-###### I'm building more and more skills. 📚<br><br>
-<details>
-  <summary>Other softwares I work with:</summary>
-  <ul>
-    <li><b>Autodesk</b>: AutoCAD, 3ds Max, Revit</li>
-    <li><b>Adobe</b>: Photoshop, InDesign, Illustrator</li>
-  </ul>
-</details>
+___
+#### Onde me encontrar<br>
 
-<hr>
-
-<a href="https://github.com/mauricioleite1">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mauricioleite1&show_icons=true&line_height=27&count_private=true&title_color=3e3e3e&text_color=fff&icon_color=5432ff&bg_color=aeaeae" alt="My GitHub Stats" />
-</a>
+[![GitHub Badge](https://img.shields.io/badge/Github-white?style=flat&logo=github&logoColor=black)](https://github.com/mauricioleite1)
+[![LinkedIn Badge](https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mauricioleite/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&logoColor=red)](mailto:mauricioleite@gmail.com)
