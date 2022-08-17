@@ -2,6 +2,7 @@
 
 Sou Maurício Leite, desenvolvedor Jr, natural de **Salvador/BA/Brasil**<br><br>
 
+💼 Chatbot Developer, na [Take Blip](https://www.take.net)<br>
 💼 Desenvolvedor Frontend Jr, no [Beedoo Edtech](https://beedoo.com.br)<br>
 🎓 Recém-formado pela [Trybe](https://www.betrybe.com)<br><br>
 
