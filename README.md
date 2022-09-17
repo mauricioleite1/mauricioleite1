@@ -4,10 +4,10 @@ Sou Maurício Leite, desenvolvedor Jr, natural de **Salvador/BA/Brasil**<br><br>
 
 💼 Chatbot Developer, na [Take Blip](https://www.take.net)<br>
 💼 Desenvolvedor Frontend Jr, no [Beedoo Edtech](https://beedoo.com.br)<br>
-🎓 Recém-formado pela [Trybe](https://www.betrybe.com)<br><br>
+🎓 Formado pela [Trybe](https://www.betrybe.com)<br><br> (cursado entre jun/2021 e jun/2022)
 
 Trabalhei por 10 anos como Arquiteto e Urbanista,<br>
-Consegui a oportunidade e migrei para área que realmente sou apaixonado 🤩
+Consegui a oportunidade e migrei para área que realmente sou apaixonado: Tecnologia 🤩
 
 ___
 ### Ferramentas que mais uso<br>
@@ -20,10 +20,6 @@ ___
 [![Sass](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF)](https://sass-lang.com)
 [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF)](https://docker.com)
 <br>
-
-#### Atualmente estou me aprimorando em
-[![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFF)](https://kotlin.com)
-[![Android](https://img.shields.io/badge/android-4FC08D?style=for-the-badge&logo=android&logoColor=FFF)](https://android.com)
 
 ___
 #### Onde me encontrar<br>
