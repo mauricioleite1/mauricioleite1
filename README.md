@@ -5,8 +5,8 @@ Sou Maurício Leite, desenvolvedor Jr, natural de **Salvador/BA/Brasil**<br><br>
 💼 Analista de Sistemas Jr, na [Blip](https://www.blip.ai) (ago/22 - atual)<br>
 💼 Desenvolvedor Frontend Jr, no [Beedoo Edtech](https://beedoo.com.br) (mai/22 - out/23)<br>
 
-🎓 Cursando React-Native pela [Rocketseat](www.rocketseat.com.br);
-🎓 Formado em Desenvolvimento Full Stack, pela [Trybe](https://www.betrybe.com)<br><br>, concluído em 2022;
+🎓 Cursando React-Native pela [Rocketseat](www.rocketseat.com.br);<br>
+🎓 Formado em Desenvolvimento Full Stack, pela [Trybe](https://www.betrybe.com), concluído em 2022;<br>
 🎓 Formado em Arquitetura e Urbanismo, pela Unijorge, concluído em 2014;
 
 ___
