@@ -2,6 +2,7 @@
 
 Sou Maurício Leite, desenvolvedor Jr, natural de **Salvador/BA/Brasil**<br><br>
 
+💼 Desenvolvedor Frontend Pl, no [Reload Health](https://beedoo.com.br) (dez/23 - atual)<br>
 💼 Analista de Sistemas Jr, na [Blip](https://www.blip.ai) (ago/22 - atual)<br>
 💼 Desenvolvedor Frontend Jr, no [Beedoo Edtech](https://beedoo.com.br) (mai/22 - out/23)<br>
 
