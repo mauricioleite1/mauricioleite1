@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo à minha página! 🙂
 
-Sou Maurício Leite, desenvolvedor Jr, natural de **Salvador/BA/Brasil**<br><br>
+Sou Maurício Leite, desenvolvedor Frontend, natural de **Salvador/BA/Brasil**<br><br>
 
 💼 Desenvolvedor Frontend Pl, na [CI&T](https://ciandt.com)<br>
 
